@@ -230,3 +230,5 @@ All UI components support **dark mode** via Tailwind `dark:` classes. Theme is t
 ## License
 
 MIT
+#   f r o n t e n d _ a s s i g n m e n t  
+ 
